@@ -6,15 +6,17 @@ Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called 
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
 
+### Tools 🔨 
+
 <div display="flex">
-	<img height="32" width="32" fill="red" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/ruby.svg" />
+	<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/ruby.svg" />
 	<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/rubyonrails.svg" />	
 	<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/html5.svg" />
 	<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/css3.svg" />
 	<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/javascript.svg" />
 </div>
 
-### Skills and Interests 
+### Skills and Interests 🧠
 
 I feel very comfortable about designing things. I believe that the process of planing a building is very similar to the one of building an app. 
 
