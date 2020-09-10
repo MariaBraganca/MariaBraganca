@@ -1,8 +1,9 @@
 ### Hi, I'm Maria! 👋 
 
-Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on building design. 
+Throughout my professional experience, as an architect, i’ve explored the benefits of **agile management** on building design. 
 
 Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a social platform for architects.
+
 👉 <a href="https://berlinarchnet.herokuapp.com/">berlinarchnet app</a>
 
 Now I’m looking forward to resume my career journey as a **software architect** by building apps that bring people together!
@@ -30,6 +31,12 @@ Now I’m looking forward to resume my career journey as a **software architect*
 I feel very comfortable about designing things. I believe that the process of planing a building is very similar to the one of building an app. 
 
 I enjoy the dialog with clients, the architecture of a complex database, the problem solving activity behind coding as well as the challenge of creating appealing and accessible design.
+
+🙌 Collaboration
+✅ Problem solving
+💡 Creativity
+🕑 Management
+😄 Curiosity and enthusiasm
 
 #
 
