@@ -1,5 +1,4 @@
 ### Hi, I'm Maria! 👋 
----
 
 Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on building design. 
 
@@ -7,8 +6,9 @@ Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called 
 
 Now I’m looking forward to resume my career journey as a **software architect** by building apps that bring people together!
 
+<hr>
+
 ### Tools 🔨 
----
 
 <div display="flex">
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/ruby.svg" />
@@ -22,15 +22,17 @@ Now I’m looking forward to resume my career journey as a **software architect*
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/heroku.svg" />
 </div>
 
+<hr>
+
 ### Skills and Interests 🧠
----
 
 I feel very comfortable about designing things. I believe that the process of planing a building is very similar to the one of building an app. 
 
 I enjoy the dialog with clients, the architecture of a complex database, the problem solving activity behind coding as well as the challenge of creating appealing and accessible design.
 
+<hr>
+
 ### Get in touch 💬
----
 
 
 <!--
