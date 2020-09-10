@@ -1,12 +1,13 @@
 ### Hi, I'm Maria! 👋 
 
+Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on building design. 
+
 Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a social platform for architects.
-Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on building design as well. 
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
 
 
-<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/html5.jpg">
+<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/html5.png">
 
 ### Skills and Interests 
 
