@@ -4,6 +4,7 @@ Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called 
 Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on buiding design as well. 
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
+
 ---
 
 ### Skills and Interests 
