@@ -32,16 +32,17 @@ I feel very comfortable about designing things. I believe that the process of pl
 
 I enjoy the dialog with clients, the architecture of a complex database, the problem solving activity behind coding as well as the challenge of creating appealing and accessible design.
 
-🙌 Collaboration
-✅ Problem solving
-💡 Creativity
-🕑 Management
-😄 Curiosity and enthusiasm
-
+<ul list-style="none">
+	<li>🙌 Collaboration</li>
+	<li>✅ Problem solving</li>
+	<li>💡 Creativity</li>
+	<li>🕑 Management</li>
+	<li>😄 Curiosity and enthusiasm</li>
+</ul>
 #
 
 ### Get in touch 💬
-- Here on <a href="https://www.linkedin.com/in/mariabraganca/">Linkedin</a>!
+Here on <a href="https://www.linkedin.com/in/mariabraganca/">Linkedin</a>!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
