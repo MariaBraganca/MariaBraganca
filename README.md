@@ -5,7 +5,7 @@ Throughout my professional experience as an architect i’ve explored the benefi
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
 
-<img height="32" width="32" src="images/html5.png" />
+<img height="32" width="32" src="images/html5.jpg" />
 
 ### Skills and Interests 
 
