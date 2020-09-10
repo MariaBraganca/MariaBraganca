@@ -4,7 +4,7 @@ Throughout my professional experience as an architect i’ve explored the benefi
 
 Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a social platform for architects.
 
-Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
+Now I’m looking forward to resume my career journey as a **software architect** by building apps that bring people together!
 
 ### Tools 🔨 
 
@@ -14,6 +14,10 @@ Now I’m looking forward to continue my journey as a **software architect** on 
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/html5.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/css3.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/javascript.svg" />
+	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/git.svg" />
+	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/github.svg" />
+	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/postgresql.svg" />
+	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/heroku.svg" />
 </div>
 
 ### Skills and Interests 🧠
