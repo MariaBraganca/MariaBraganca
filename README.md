@@ -6,12 +6,22 @@ Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called 
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
 
-<ul>
-	<li><img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/ruby.svg"></li>
-	<li><img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/rubyonrails.svg"></li>
-	<li><img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/html5.svg"></li>
-	<li><img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/css3.svg"></li>
-	<li><img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/javascript.svg"></li>
+<ul list-style="none">
+	<li display="inline">
+		<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/ruby.svg">
+	</li>
+	<li display="inline">
+		<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/rubyonrails.svg">
+	</li>
+	<li display="inline">
+		<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/html5.svg">
+	</li>
+	<li display="inline">
+		<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/css3.svg">
+	</li>
+	<li display="inline">
+		<img height="32" width="32" src="https://github.com/MariaBraganca/MariaBraganca/blob/master/images/javascript.svg">
+	</li>
 </ul>
 
 ### Skills and Interests 
