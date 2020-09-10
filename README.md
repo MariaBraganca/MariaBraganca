@@ -1,11 +1,12 @@
-### Hi, I'm Maria! 👋 ---
+### Hi, I'm Maria! 👋 
 
 Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a platform for architects.
 Throughout my professional experience as an architect i’ve explored the benefits of **agile management** on buiding design as well. 
 
 Now I’m looking forward to continue my journey as a **software architect** on building apps that bring people together!
+---
 
-### Skills and Interests ---
+### Skills and Interests 
 
 I feel very comfortable about designing things. I believe that the process of planing a building is very similar to the one of building an app. 
 
