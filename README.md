@@ -4,11 +4,14 @@ Throughout my professional experience, as an architect, i’ve explored the bene
 
 Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a social platform for architects.
 
-👉 <a href="https://berlinarchnet.herokuapp.com/">berlinarchnet app</a>
-
 Now I’m looking forward to resume my career journey as a **software architect** by building apps that bring people together!
 
 #
+
+### Projects
+
+👉 <a href="https://berlinarchnet.herokuapp.com/">Berlinarchnet app</a>
+👉 <a href="https://secret-plains-56444.herokuapp.com/">Mister Cocktail app</a>
 
 ### Tools 🔨
 
