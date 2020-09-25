@@ -10,8 +10,10 @@ Now I’m looking forward to resume my career journey as a **software architect*
 
 ### Projects
 
-👉 <a href="https://berlinarchnet.herokuapp.com/">Berlinarchnet app</a>
+👉 <a href="https://berlinarchnet.herokuapp.com/">Berlinarchnet app</a><br>
 👉 <a href="https://secret-plains-56444.herokuapp.com/">Mister Cocktail app</a>
+
+#
 
 ### Tools 🔨
 
