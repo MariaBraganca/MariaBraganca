@@ -60,11 +60,11 @@ So far, these are the languages and frameworks i've been working with:
 
 #
 
-### Things i love to do apart from coding 📌
+### Things I love to do apart from coding 📌
 
 🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
  
-💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me. Check out my <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/">Meetup group</a>.
+💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me. Check out my <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/">Meetup group</a>!
  
 📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective.	
 
