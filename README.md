@@ -71,7 +71,7 @@ So far, these are the languages and frameworks i've been working with:
 
 #
 
-### Let's code together
+### Let's code together 💗
 
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
