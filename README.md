@@ -1,10 +1,10 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
+I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time" target="_blank">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
 This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.<br>
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
 
-👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
+👉 <a href="https://mariabraganca.github.io/profile/index.html" target="_blank">Check me out!</a>
 
 #
 
@@ -15,6 +15,7 @@ Throughout my professional experience, as an architect, I've coordinated team me
 Books such as
 - 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
 - 📕 "The Scrum Field Guide" from Mitch Lacey
+
 helped me build an agile mindset!<br> 
 
 <strong>Full-stack</strong> 💼<br>
@@ -29,6 +30,7 @@ My working experience as an architect combined with the technical knowledge acqu
 Curiosity was always my motivation to keep on learning. Both, my
 - 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
 - 📚extensive library at home
+
 classify me as a fast and passionate learner.
 
 Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
@@ -37,10 +39,10 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 ### What I've been working on 🔨
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a><br>
+👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html" target="_blank">BAN Berlin Architectural Network</a><br>
 A social platform for architects built on Ruby in Rails.
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a><br>
+👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html" target="_blank">Mister Cocktail</a><br>
 A JS and CSS animated tool for cocktail lovers.
 
 At the moment i'm improving my skills with Linkedin Learning and building my own apps.<br>
@@ -76,7 +78,7 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a>!
+- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/" target="_blank">LinkedIn</a>!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
