@@ -2,20 +2,15 @@
 
 I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin. 
 
-I believe that my
-- 🙌 collaborative spirit,
-- ✅ problem solving approach,
-- 💡 creativity thinking,
-- 🕑 management skills and
-- 😄 endless enthusiasm<br>
+This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
 
-can add value to your company and customers!
+Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
 
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
 
-### Why you should hire me 💪
+### Skills 💪
 
 <strong>Agile Mindset</strong> 🏁<br>
 Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects.<br>
@@ -42,7 +37,7 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 #
 
-### What i've done so far 🔨
+### Projects 🔨
 
 👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a> A social platform for architects built on Ruby in Rails.<br>
 👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> A JS and CSS animated tool for cocktail lovers.
@@ -80,7 +75,7 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-- 🏃‍♂️ on LinkedIn!
+- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a>!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
