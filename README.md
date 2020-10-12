@@ -1,11 +1,11 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time" target="_blank">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
+I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
 This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
 
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
 
-👉 <a href="https://mariabraganca.github.io/profile/index.html" target="_blank">Check me out!</a>
+👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
 
@@ -38,11 +38,11 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 #
 
-### What I've been working on so far 🔨
+### What I've been doing so far 🔨
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html" target="_blank">BAN Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
+📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html" target="_blank">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
+📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
 
 At the moment i'm improving my skills with Linkedin Learning and building my own apps.<br>
 So far, these are the languages and frameworks i've been working with:
@@ -64,8 +64,7 @@ So far, these are the languages and frameworks i've been working with:
 
 🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
  
-💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me.
-- 👉 Check out my Meetup group, <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/" target="_blank">BAN - Berlin Architectural Network</a>
+💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me. Check out my Meetup group <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/">BAN - Berlin Architectural Network</a>
  
 📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective.	
 
@@ -77,7 +76,7 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/" target="_blank">LinkedIn</a>!
+- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a>!
 - 🏃‍♂️ on here on Github!
 
 <!--
