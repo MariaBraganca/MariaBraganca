@@ -1,19 +1,51 @@
-### Hi, I'm Maria! 👋 
+### Hello, World! 👋 I'm Maria! 
 
-Throughout my professional experience, as an architect, i’ve explored the benefits of **agile management** on building design. 
+I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin. 
 
-Driven by Berlin’s startup scene spirit, I’ve created a Meetup group called **Berlin Architectural Network** and applied the knowledge from the **Bootcamp at Le Wagon** into building a social platform for architects.
+I believe that my 
+	🙌 collaborative spirit,
+	✅ problem solving approach,
+	💡 creativity thinking,
+	🕑 management skills and
+	😄 endless enthusiasm 
+can add value to your company and customers!
 
-Now I’m looking forward to resume my career journey as a **software architect** by building apps that bring people together!
+👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
 
-### Projects
+### Why you should hire me 💪
 
-👉 <a href="https://berlinarchnet.herokuapp.com/">Berlinarchnet app</a>
-👉 <a href="https://secret-plains-56444.herokuapp.com/">Mister Cocktail app</a>
+<strong>Agile Mindset</strong> 🏁
+Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects. 
+Books such as
+	📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and 
+	📕 "The Scrum Field Guide" from Mitch Lacey 
+helped me build an agile mindset!
+ 
+<strong>Full-stack</strong> 💼
+As a developer, I enjoy the 
+	💿 the architecture of a complex database 
+	🧠 the problem solving behind coding as well as
+	💻 the challenge of creating appealing and accessible design. 
+My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.
+ 
+<strong>Fast Learner</strong> ⚡
+Curiosity was always my motivation to keep on learning. Both, my 
+	🔟 year old subscription by lynda.com (now Linkedin Learning) and my 
+	📚extensive library at home
+classify me as a fast and passionate learner. 
+Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
 
-### Tools 🔨
+#
+
+### What i've done so far 🔨
+
+👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html"><strong>BAN Berlin Architectural Network</strong> A social platform for architects built on Ruby in Rails.</a><br>
+👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html"><strong>Mister Cocktail</strong> A JS and CSS animated tool for cocktail lovers.</a>
+
+At the moment i'm improving my skills with Linkedin Learning and building my own apps.
+So far, these are the languages and frameworks i've been working with:
 
 <div display="flex">
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/ruby.svg" />
@@ -21,7 +53,6 @@ Now I’m looking forward to resume my career journey as a **software architect*
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/html5.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/css3.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/javascript.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/git.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/github.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/postgresql.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/heroku.svg" />
@@ -29,23 +60,25 @@ Now I’m looking forward to resume my career journey as a **software architect*
 
 #
 
-### Skills and Interests 🧠
+### Things i love to do apart from coding 📌
 
-I feel very comfortable about designing things. I believe that the process of planing a building is very similar to the one of building an app. 
-
-I enjoy the dialog with clients, the architecture of a complex database, the problem solving activity behind coding as well as the challenge of creating appealing and accessible design.
-
-- 🙌 Collaboration
-- ✅ Problem solving
-- 💡 Creativity
-- 🕑 Management
-- 😄 Curiosity and enthusiasm
+🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
+ 
+💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me.
+👉 Check out my Meetup group, BAN - Berlin Architectural Network
+ 
+📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective
 
 
 #
 
-### Get in touch 💬
-- Here on <a href="https://www.linkedin.com/in/mariabraganca/">Linkedin</a>!  
+### Let's code together
+
+Feel free to reach out if you're looking for a developer, have a question or want to chat.
+
+You can also follow me on:
+	🏃‍♂️ on Github and
+	🏃‍♂️ on LinkedIn!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
