@@ -7,9 +7,9 @@ I believe that my
 - ✅ problem solving approach,
 - 💡 creativity thinking,
 - 🕑 management skills and
-- 😄 endless enthusiasm
-can add value to your company and customers! <br>
-
+- 😄 endless enthusiasm<br>
+can add value to your company and customers!
+<br>
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
@@ -17,31 +17,25 @@ can add value to your company and customers! <br>
 ### Why you should hire me 💪
 
 <strong>Agile Mindset</strong> 🏁<br>
-Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects. 
+Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects.<br>
 Books such as
-<ul style="list-style-type: none;">
-	<li>📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and</li>
-	<li>📕 "The Scrum Field Guide" from Mitch Lacey</li>
-</ul>
-helped me build an agile mindset!<br>
- 
+- 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
+- 📕 "The Scrum Field Guide" from Mitch Lacey
+helped me build an agile mindset!
+<br> 
 <strong>Full-stack</strong> 💼<br>
 As a developer, I enjoy the 
-<ul style="list-style-type: none;">
-	<li>💿 the architecture of a complex database</li>
-	<li>🧠 the problem solving behind coding as well as</li>
-	<li>💻 the challenge of creating appealing and accessible design.</li>
-</ul>
-My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
- 
+- 💿 the architecture of a complex database
+- 🧠 the problem solving behind coding as well as
+- 💻 the challenge of creating appealing and accessible design.
+My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.
+<br> 
 <strong>Fast Learner</strong> ⚡<br>
-Curiosity was always my motivation to keep on learning. Both, my 
-<ul  style="list-style-type: none;">
-	<li>🔟 year old subscription by lynda.com (now Linkedin Learning) and my</li>
-	<li>📚extensive library at home</li>
-</ul>
+Curiosity was always my motivation to keep on learning. Both, my
+- 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
+- 📚extensive library at home
 classify me as a fast and passionate learner.<br>
-Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.<br>
+Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
 
 #
 
@@ -83,10 +77,7 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-<ul style="list-style-type: none;">
-	<li>🏃‍♂️ on Github and</li>
-	<li>🏃‍♂️ on LinkedIn!</li>
-</ul>
+- 🏃‍♂️ on LinkedIn!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
