@@ -3,13 +3,11 @@
 I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin. 
 
 I believe that my
-<ul style="list-style-type: none;">	
-	<li>🙌 collaborative spirit,</li>
-	<li>✅ problem solving approach,</li>
-	<li>💡 creativity thinking,</li>
-	<li>🕑 management skills and</li>
-	<li>😄 endless enthusiasm</li>
-</ul>
+- 🙌 collaborative spirit,
+- ✅ problem solving approach,
+- 💡 creativity thinking,
+- 🕑 management skills and
+- 😄 endless enthusiasm
 can add value to your company and customers! <br>
 
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
