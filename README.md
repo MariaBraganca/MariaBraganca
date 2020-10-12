@@ -8,7 +8,9 @@ I believe that my
 - 💡 creativity thinking,
 - 🕑 management skills and
 - 😄 endless enthusiasm<br>
-can add value to your company and customers!<br>
+
+can add value to your company and customers!
+
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
@@ -27,13 +29,15 @@ As a developer, I enjoy the
 - 💿 the architecture of a complex database
 - 🧠 the problem solving behind coding as well as
 - 💻 the challenge of creating appealing and accessible design.
+
 My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
 
 <strong>Fast Learner</strong> ⚡<br>
 Curiosity was always my motivation to keep on learning. Both, my
 - 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
 - 📚extensive library at home
-classify me as a fast and passionate learner.<br>
+classify me as a fast and passionate learner.
+
 Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
 
 #
