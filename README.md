@@ -37,6 +37,7 @@ Curiosity was always my motivation to keep on learning. Both, my
 classify me as a fast and passionate learner. 
 Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
 
+<<<<<<< HEAD
 #
 
 ### What i've done so far 🔨
