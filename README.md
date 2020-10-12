@@ -39,13 +39,11 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 #
 
-### What I've been working on 🔨
+### What I've been working on so far 🔨
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html" target="_blank">BAN Berlin Architectural Network</a><br>
-A social platform for architects built on Ruby in Rails.
+👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html" target="_blank">BAN Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html" target="_blank">Mister Cocktail</a><br>
-A JS and CSS animated tool for cocktail lovers.
+👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html" target="_blank">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
 
 At the moment i'm improving my skills with Linkedin Learning and building my own apps.<br>
 So far, these are the languages and frameworks i've been working with:
@@ -81,6 +79,7 @@ Feel free to reach out if you're looking for a developer, have a question or wan
 
 You can also follow me on:
 - 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/" target="_blank">LinkedIn</a>!
+- 🏃‍♂️ on here on Github!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
