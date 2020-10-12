@@ -1,17 +1,16 @@
 ### Hello, World! 👋 I'm Maria.
-### Architect and junior Full Stack Developer.
 
 I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin. 
 
 I believe that my
-<ul>	
-	<li style="list-style: none;">🙌 collaborative spirit,</li>
-	<li style="list-style: none;">✅ problem solving approach,</li>
-	<li style="list-style: none;">💡 creativity thinking,</li>
-	<li style="list-style: none;">🕑 management skills and</li>
-	<li style="list-style: none;">😄 endless enthusiasm</li>
+<ul style="list-style: none;">	
+	<li>🙌 collaborative spirit,</li>
+	<li>✅ problem solving approach,</li>
+	<li>💡 creativity thinking,</li>
+	<li>🕑 management skills and</li>
+	<li>😄 endless enthusiasm</li>
 </ul>
-can add value to your company and customers!
+can add value to your company and customers! <br>
 
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
@@ -22,26 +21,26 @@ can add value to your company and customers!
 <strong>Agile Mindset</strong> 🏁<br>
 Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects. 
 Books such as
-<ul>
-	<li style="list-style: none;">📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and</li>
-	<li style="list-style: none;">📕 "The Scrum Field Guide" from Mitch Lacey</li>
+<ul style="list-style: none;">
+	<li>📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and</li>
+	<li>📕 "The Scrum Field Guide" from Mitch Lacey</li>
 </ul>
 helped me build an agile mindset!
  
 <strong>Full-stack</strong> 💼<br>
 As a developer, I enjoy the 
-<ul>
-	<li style="list-style: none;">💿 the architecture of a complex database</li>
-	<li style="list-style: none;">🧠 the problem solving behind coding as well as</li>
-	<li style="list-style: none;">💻 the challenge of creating appealing and accessible design.</li>
+<ul style="list-style: none;">
+	<li>💿 the architecture of a complex database</li>
+	<li>🧠 the problem solving behind coding as well as</li>
+	<li>💻 the challenge of creating appealing and accessible design.</li>
 </ul>
 My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.
  
 <strong>Fast Learner</strong> ⚡<br>
 Curiosity was always my motivation to keep on learning. Both, my 
-<ul>
-	<li style="list-style: none;">🔟 year old subscription by lynda.com (now Linkedin Learning) and my</li>
-	<li style="list-style: none;">📚extensive library at home</li>
+<ul  style="list-style: none;">
+	<li>🔟 year old subscription by lynda.com (now Linkedin Learning) and my</li>
+	<li>📚extensive library at home</li>
 </ul>
 classify me as a fast and passionate learner. 
 Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
@@ -86,9 +85,9 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-<ul>
-	<li style="list-style: none;">🏃‍♂️ on Github and</li>
-	<li style="list-style: none;">🏃‍♂️ on LinkedIn!</li>
+<ul style="list-style: none;">
+	<li>🏃‍♂️ on Github and</li>
+	<li>🏃‍♂️ on LinkedIn!</li>
 </ul>
 
 <!--
