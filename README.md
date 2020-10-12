@@ -28,8 +28,7 @@ As a developer, I enjoy the
 My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
 
 <strong>Fast Learner</strong> ⚡<br>
-Curiosity was always my motivation to keep on learning.<br>
-Both, my
+Curiosity was always my motivation to keep on learning. Both, my
 - 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
 - 📚extensive library at home
 
@@ -65,7 +64,7 @@ So far, these are the languages and frameworks i've been working with:
 
 🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
  
-💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me.<br>
+💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me.
 - 👉 Check out my Meetup group, <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/" target="_blank">BAN - Berlin Architectural Network</a>
  
 📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective.	
