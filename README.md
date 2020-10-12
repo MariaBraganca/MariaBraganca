@@ -8,8 +8,7 @@ I believe that my
 - 💡 creativity thinking,
 - 🕑 management skills and
 - 😄 endless enthusiasm<br>
-can add value to your company and customers!
-<br>
+can add value to your company and customers!<br>
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
@@ -21,15 +20,15 @@ Throughout my professional experience, as an architect, I've coordinated team me
 Books such as
 - 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
 - 📕 "The Scrum Field Guide" from Mitch Lacey
-helped me build an agile mindset!
-<br> 
+helped me build an agile mindset!<br> 
+
 <strong>Full-stack</strong> 💼<br>
 As a developer, I enjoy the 
 - 💿 the architecture of a complex database
 - 🧠 the problem solving behind coding as well as
 - 💻 the challenge of creating appealing and accessible design.
-My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.
-<br> 
+My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
+
 <strong>Fast Learner</strong> ⚡<br>
 Curiosity was always my motivation to keep on learning. Both, my
 - 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
