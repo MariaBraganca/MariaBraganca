@@ -64,7 +64,7 @@ So far, these are the languages and frameworks i've been working with:
 
 🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
  
-💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me. Check out my Meetup group <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/">BAN - Berlin Architectural Network</a>
+💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me. Check out my <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/">Meetup group</a>.
  
 📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective.	
 
@@ -76,8 +76,8 @@ So far, these are the languages and frameworks i've been working with:
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
-- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a>!
-- 🏃‍♂️ on here on Github!
+- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a> or
+- 🏃‍♂️ here on Github!
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
