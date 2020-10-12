@@ -1,16 +1,14 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin. 
-
-This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
-
+I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
+This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.<br>
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
 
 👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
 
 #
 
-### Skills 💪
+### I can add value to your company 💪
 
 <strong>Agile Mindset</strong> 🏁<br>
 Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects.<br>
@@ -37,10 +35,13 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 #
 
-### Projects 🔨
+### What I've been working on 🔨
 
-👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a> A social platform for architects built on Ruby in Rails.<br>
-👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> A JS and CSS animated tool for cocktail lovers.
+👉 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a><br>
+A social platform for architects built on Ruby in Rails.
+
+👉 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a><br>
+A JS and CSS animated tool for cocktail lovers.
 
 At the moment i'm improving my skills with Linkedin Learning and building my own apps.<br>
 So far, these are the languages and frameworks i've been working with:
