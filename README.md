@@ -66,7 +66,7 @@ So far, these are the languages and frameworks i've been working with:
 🏓 <strong>Ping Pong</strong> because it drives me to think strategically at high speed.
  
 💬 <strong>Meetup</strong> because promoting knowledge exchange and networking is important to me.<br>
-👉 Check out my Meetup group, BAN - Berlin Architectural Network
+- 👉 Check out my Meetup group, <a href="https://www.meetup.com/BAN-Berlin-Architectural-Network/" target="_blank">BAN - Berlin Architectural Network</a>
  
 📚 <strong>Books</strong> because reading enables me to learn new things and broadens my perspective.	
 
