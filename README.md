@@ -38,7 +38,7 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 #
 
-### What I've been doing so far 🔨
+### What I've done so far 🔨
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
