@@ -49,10 +49,10 @@ So far, these are the languages and frameworks i've been working with:
 
 <div display="flex">
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/ruby.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/rubyonrails.svg" />	
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/html5.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/css3.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/javascript.svg" />
+	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/rubyonrails.svg" />	
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/github.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/postgresql.svg" />
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/heroku.svg" />
