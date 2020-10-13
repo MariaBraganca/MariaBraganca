@@ -1,6 +1,6 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from the #1 <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
+I'm an architect who has recently graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
 This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
 
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
@@ -28,7 +28,7 @@ As a developer, I enjoy the
 My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
 
 <strong>Fast Learner</strong> ⚡<br>
-Curiosity was always my motivation to keep on learning. Both, my
+Problem solving was always my motivation to keep on learning. Both, my
 - 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
 - 📚extensive library at home
 
