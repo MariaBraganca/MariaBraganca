@@ -1,11 +1,11 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from a <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
+I'm an architect who has recently graduated from the #1 <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
 This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
 
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
 
-👉 <a href="https://mariabraganca.github.io/profile/index.html">Check me out!</a>
+⭐ <a href="https://mariabraganca.github.io/profile/index.html">View my profile page!</a>
 
 #
 
@@ -19,7 +19,7 @@ Books such as
 
 helped me build an agile mindset!<br> 
 
-<strong>Full Stack</strong> 💼<br>
+<strong>Full Stack</strong> 🌈<br>
 As a developer, I enjoy the 
 - 💿 the architecture of a complex database
 - 🧠 the problem solving behind coding as well as
@@ -40,7 +40,7 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 ### What I've done so far 🔨
 
-📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
+📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN - Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
 
