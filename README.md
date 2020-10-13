@@ -12,7 +12,7 @@ Now I’m looking forward to working alongside developers and designers and broa
 ### How I can add value to your company 💪
 
 <strong>Agile Mindset</strong> 🏁<br>
-Throughout my professional experience, as an architect, I've coordinated team members and used Scrum as a framework for my projects.<br>
+Throughout my professional experience, as an architect, I've coordinated teams and used Scrum as a framework for my projects.<br>
 Books such as
 - 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
 - 📕 "The Scrum Field Guide" from Mitch Lacey
