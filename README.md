@@ -9,7 +9,7 @@ Now I’m looking forward to working alongside developers and designers and broa
 
 #
 
-### How I can add value to your company 💪
+### How I can add value within your company 💪
 
 <strong>Agile Mindset</strong> 🏁<br>
 Throughout my professional experience, as an architect, I've coordinated teams and used Scrum as a framework for my projects.<br>
