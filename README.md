@@ -1,9 +1,10 @@
 ### Hello, World! 👋 I'm Maria.
 
-I'm an architect who has recently graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin.<br>
-This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
+In 2020 I chose to pivot my career toward a path that had long fascinated me: software development.<br>
+I've graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin and have been working as a Backend Engineer since then.<br>
+This experience gave me the opportunity to work on apps that are fun to use and are written in code that's maintainable and easy to read.
 
-Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
+I'm committed to continuous learning and looking forward to joining teams that are at the forefront of technology and innovation. 
 
 ⭐ <a href="https://mariabraganca.github.io/profile/index.html">View my profile page!</a>
 
@@ -11,21 +12,22 @@ Now I’m looking forward to working alongside developers and designers and broa
 
 ### How I can add value within your company 💪
 
+<strong>Full Stack</strong> 🌈<br>
+As a developer, I enjoy the 
+- 💿 the architecture of a complex database
+- 🧠 the problem solving process behind writing efficient code 
+- 💻 the challenge of creating appealing and accessible design
+
+My previous working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
+
 <strong>Agile Mindset</strong> 🏁<br>
-Throughout my professional experience, as an architect, I've coordinated teams and used Scrum as a framework for my projects.<br>
+Throughout my professional journey, I've always strived to work as efficient as possible.
+I've first introduced agile principles into architecture for project management, and am now applying them to every software development project.<br>
 Books such as
 - 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
 - 📕 "The Scrum Field Guide" from Mitch Lacey
 
-helped me build an agile mindset!<br> 
-
-<strong>Full Stack</strong> 🌈<br>
-As a developer, I enjoy the 
-- 💿 the architecture of a complex database
-- 🧠 the problem solving behind coding as well as
-- 💻 the challenge of creating appealing and accessible design.
-
-My working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
+inspired me to develop an agile mindset!<br> 
 
 <strong>Fast Learner</strong> ⚡<br>
 Problem solving was always my motivation to keep on learning. Both, my
