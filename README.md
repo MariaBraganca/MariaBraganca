@@ -22,20 +22,20 @@ My background in architecture, paired with my technical programming skills, uniq
 
 <strong>Fast Learner</strong> ⚡<br>
 I have a hard working attitude and a continuous drive to learn, which is nurtured by
-- ↪️ working on side projects
+- ↪️ regularly working on side projects
 - 📚 actively reading books, articles, newletters and listening to podcasts
-- 🎓 regularly participatig on online programming courses
+- 🎓 investing in my education by taking online programming courses
 
-This mindset helps me to easily adapt to a new working environment and quickly start contributing as a software developer.
+This mindset helps me to easily adapt to new working environments and quickly start contributing as a software developer.
 
 <strong>Working experience</strong> 🏁<br>
 So far, my experience includes working within the analytics team at a leading Subscription Analytics Platform.<br>
-In this role, I had the opportunity to engage on
+In this role, I have the opportunity to engage on
 - 📡 communication through APIs (HTTP/GRPC) among Microservices developed in Ruby(Grape), Python(Fast API) and Rust
 - 💿 diverse database solutions such as PostgreSQL, Snowflake, ClickHouse and Redis
 - 🛶 data flow process from integration and normalization to data generation, analytics and presentation
 
-This range of experiences has equipped me with a robust skill set, enabling me to to deliver quality, data-driven solutions across different technologies and platforms.
+This range of experiences has equipped me with a robust skill set, enabling me to deliver quality, data-driven solutions across various technologies and platforms.
 
 #
 
