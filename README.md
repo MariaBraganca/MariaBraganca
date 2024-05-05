@@ -41,7 +41,7 @@ This range of experiences has equipped me with a robust skill set, enabling me t
 
 ### What I'm currently working on 🔨
 
-📱 <a href="https://github.com/MariaBraganca/immobyte/">Immobyte</a> - A real estate platform powered by ChatGPT, developed using Python.".
+📱 <a href="https://github.com/MariaBraganca/immobyte/">Immobyte</a> - A real estate platform powered by ChatGPT, developed using Python.
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">Berlin Architectural Network</a> - A social platform for architects, built using Ruby on Rails.
 
