@@ -41,9 +41,9 @@ This range of experiences has equipped me with a robust skill set, enabling me t
 
 ### What I'm currently working on 🔨
 
-📱 <a href="https://mariabraganca.github.io/profile/pr_immobyte.html">Immobyte</a> - A real estate platform powered by ChatGPT and written in Python. ([WIP] - see repository).
+📱 <a href="https://github.com/MariaBraganca/immobyte/">Immobyte</a> - A real estate platform powered by ChatGPT and written in Python.
 
-📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN - Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
+📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
 
@@ -64,11 +64,10 @@ So far, these are some of the languages and frameworks i've been working with:
 
 ### Let's code together 💗
 
-Feel free to reach out if you're looking for a developer, have a question or want to chat.
+Feel free to reach out if you're looking for a developer, have any questions, or just want to chat!
 
 You can also follow me on:
-- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a> or
-- 🏃‍♂️ here on Github!
+- 🏃‍♂️ on <a href="https://www.linkedin.com/in/mariabraganca/">LinkedIn</a>
 
 <!--
 **MariaBraganca/MariaBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
