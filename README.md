@@ -41,11 +41,11 @@ This range of experiences has equipped me with a robust skill set, enabling me t
 
 ### What I'm currently working on 🔨
 
-📱 <a href="https://github.com/MariaBraganca/immobyte/">Immobyte</a> - A real estate platform powered by ChatGPT and written in Python.
+📱 <a href="https://github.com/MariaBraganca/immobyte/">Immobyte</a> - A real estate platform powered by ChatGPT, developed using Python.".
 
-📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
+📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">Berlin Architectural Network</a> - A social platform for architects, built using Ruby on Rails.
 
-📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
+📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - An animated tool for cocktail enthusiasts, crafted with JavaScript and CSS.
 
 So far, these are some of the languages and frameworks i've been working with:
 
