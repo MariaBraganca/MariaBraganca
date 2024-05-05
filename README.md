@@ -1,53 +1,53 @@
 ### Hello, World! 👋 I'm Maria.
 
 In 2020 I chose to pivot my career toward a path that had long fascinated me: software development.<br>
-I've graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin and have been working as a Backend Engineer since then.<br>
+I've graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin and have been working as a Backend Engineer ever since.<br>
 This experience gave me the opportunity to work on apps that are fun to use and are written in code that's maintainable and easy to read.
 
-I'm committed to continuous learning and looking forward to joining teams that are at the forefront of technology and innovation. 
+I'm looking forward to joining teams that are at the forefront of technology and innovation. 
 
-⭐ <a href="https://mariabraganca.github.io/profile/index.html">View my profile page!</a>
+⭐ <a href="https://mariabraganca.github.io/profile/index.html">Check out my profile page!</a>
 
 #
 
 ### How I can add value within your company 💪
 
 <strong>Full Stack</strong> 🌈<br>
-As a developer, I enjoy the 
+As a software developer, I love diving into the 
 - 💿 the architecture of a complex database
-- 🧠 the problem solving process behind writing efficient code 
+- 🧠 the process behind writing efficient code
 - 💻 the challenge of creating appealing and accessible design
 
-My previous working experience as an architect combined with the technical knowledge acquired at the bootcamp, makes me suitable for both Front- and Backend tasks.<br>
-
-<strong>Agile Mindset</strong> 🏁<br>
-Throughout my professional journey, I've always strived to work as efficient as possible.
-I've first introduced agile principles into architecture for project management, and am now applying them to every software development project.<br>
-Books such as
-- 📕 "The Art of Doing Twice the Work in Half the Time" from Jeff Sutherland and
-- 📕 "The Scrum Field Guide" from Mitch Lacey
-
-inspired me to develop an agile mindset!<br> 
+My background in architecture, paired with my technical programming skills, uniquely qualifies me for both Front- and Backend tasks.<br>
 
 <strong>Fast Learner</strong> ⚡<br>
-Problem solving was always my motivation to keep on learning. Both, my
-- 🔟 year old subscription by lynda.com (now Linkedin Learning) and my
-- 📚extensive library at home
+I have a hard working attitude and a continuous drive to learn, which is nurtured by
+- ↪️ working on side projects
+- 📚 actively reading books, articles, newletters and listening to podcasts
+- 🎓 regularly participatig on online programming courses
 
-classify me as a fast and passionate learner.
+This mindset helps me to easily adapt to a new working environment and quickly start contributing as a software developer.
 
-Yet, it was foremost through mentors and teamwork that I’ve grown personally and professionally.
+<strong>Working experience</strong> 🏁<br>
+So far, my experience includes working within the analytics team at a leading Subscription Analytics Platform.<br>
+In this role, I had the opportunity to engage on
+- 📡 communication through APIs (HTTP/GRPC) among Microservices developed in Ruby(Grape), Python(Fast API) and Rust
+- 💿 diverse database solutions such as PostgreSQL, Snowflake, ClickHouse and Redis
+- 🛶 data flow process from integration and normalization to data generation, analytics and presentation
+
+This range of experiences has equipped me with a robust skill set, enabling me to to deliver quality, data-driven solutions across different technologies and platforms.
 
 #
 
-### What I've done so far 🔨
+### What I'm currently working on 🔨
+
+📱 <a href="https://mariabraganca.github.io/profile/pr_immobyte.html">Immobyte</a> - A real estate platform powered by ChatGPT and written in Python. ([WIP] - see repository).
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">BAN - Berlin Architectural Network</a> - A social platform for architects built on Ruby in Rails.
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - A JS and CSS animated tool for cocktail lovers.
 
-At the moment i'm improving my skills with Linkedin Learning and building my own apps.<br>
-So far, these are the languages and frameworks i've been working with:
+So far, these are some of the languages and frameworks i've been working with:
 
 <div display="flex">
 	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/ruby.svg" />
