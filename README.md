@@ -1,41 +1,15 @@
 ### Hello, World! 👋 I'm Maria.
 
-In 2020 I chose to pivot my career toward a path that had long fascinated me: software development.<br>
-I've graduated from the <a href="https://www.lewagon.com/berlin/web-development-course/full-time">Web Development Bootcamp at Le Wagon</a> in Berlin and have been working as a Backend Engineer ever since.<br>
-This experience gave me the opportunity to work on apps that are fun to use and are written in code that's maintainable and easy to read.
+I'm a Senior Backend Engineer with nearly 4.5 years of professional experience, starting with Ruby on Rails and later working extensively with Python and FastAPI in production. I currently contribute to the backend architecture and data pipelines of a microservices-based analytics platform, and was recently promoted to Senior Engineer I based on ownership and impact.
 
-I'm looking forward to joining teams that are at the forefront of technology and innovation. 
+I transitioned into tech after working as an architect. I was active in the design community, even founding a Meetup group with over 600 members. Early on, I introduced agile principles like Scrum into that field to improve collaboration and team efficiency. That mindset still influences how I approach software today
 
-⭐ <a href="https://mariabraganca.github.io/profile/index.html">Check out my profile page!</a>
+Outside of work, I enjoy building side projects that explore the intersection of AI and web development. My latest app, Immobyte, integrates ChatGPT into a Django-based real estate platform. I'm passionate about clean backend design, learning new domains like AI, and growing toward architectural leadership.
 
-#
+Technical Skills:
+Python, Ruby, FastAPI, Django, Ruby on Rails, PostgreSQL, ClickHouse, Redis, Docker, AWS, GitHub Actions
 
-### How I can add value within your company 💪
-
-<strong>Full Stack</strong> 🌈<br>
-As a software developer, I love diving into the 
-- 💿 the architecture of a complex database
-- 🧠 the process behind writing efficient code
-- 💻 the challenge of creating appealing and accessible design
-
-My background in architecture, paired with my technical programming skills, uniquely qualifies me for both Front- and Backend tasks.<br>
-
-<strong>Fast Learner</strong> ⚡<br>
-I have a hard working attitude and a continuous drive to learn, which is nurtured by
-- ↪️ regularly working on side projects
-- 📚 actively reading books, articles, newletters and listening to podcasts
-- 🎓 investing in my education by taking online programming courses
-
-This mindset helps me to easily adapt to new working environments and quickly start contributing as a software developer.
-
-<strong>Working experience</strong> 🏁<br>
-So far, my experience includes working within the analytics team at a leading Subscription Analytics Platform.<br>
-In this role, I have the opportunity to engage on
-- 📡 communication through APIs (HTTP/GRPC) among Microservices developed in Ruby(Grape), Python(Fast API) and Rust
-- 💿 diverse database solutions such as PostgreSQL, Snowflake, ClickHouse and Redis
-- 🛶 data flow process from integration and normalization to data generation, analytics and presentation
-
-This range of experiences has equipped me with a robust skill set, enabling me to deliver quality, data-driven solutions across various technologies and platforms.
+Always learning. Always building.
 
 #
 
@@ -46,19 +20,6 @@ This range of experiences has equipped me with a robust skill set, enabling me t
 📱 <a href="https://mariabraganca.github.io/profile/pr_berlinarchnet.html">Berlin Architectural Network</a> - A social platform for architects, built using Ruby on Rails.
 
 📱 <a href="https://mariabraganca.github.io/profile/pr_mrcocktail.html">Mister Cocktail</a> - An animated tool for cocktail enthusiasts, crafted with JavaScript and CSS.
-
-So far, these are some of the languages and frameworks i've been working with:
-
-<div display="flex">
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/ruby.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/html5.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/css3.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/javascript.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/rubyonrails.svg" />	
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/github.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/postgresql.svg" />
-	<img height="32" width="32" src="https://raw.githubusercontent.com/MariaBraganca/MariaBraganca/master/images/heroku.svg" />
-</div>
 
 #
 
